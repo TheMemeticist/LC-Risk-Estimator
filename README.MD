@@ -1,5 +1,5 @@
 # Long COVID Risk Projection (2022-2032)
-
+![LC infections over time](https://github.com/TheMemeticist/LC-Risk-Estimator/blob/main/cumulative_long_covid_risk.png?raw=true)
 This project visualizes the projected cumulative risk of Long COVID (LC) in the U.S. population over the period from 2022 to 2032. The analysis models the cumulative risk based on infection rates and per-infection LC risk estimates, using data sourced from reputable sources on COVID-19 infections and population estimates.
 
 ## Overview
@@ -26,11 +26,7 @@ The data and assumptions in this project are drawn from the following sources:
    - **80%** of these infections (1,040 million) occurred after 2022.  
    - **Source:** [World Population Review](https://worldpopulationreview.com/countries/united-states)
 
-4. **U.S. Population Estimate (2024)**  
-   - Current U.S. population: **346 million**.  
-   - **Source:** [World Population Review](https://worldpopulationreview.com/countries/united-states)
-
-5. **Average Infections per Person per Year**  
+4. **Average Infections per Person per Year**  
    - Average rate assumed at **1 infection per person per year** from 2022 to 2032.
 
 ## Model Assumptions
