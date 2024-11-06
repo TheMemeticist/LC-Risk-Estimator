@@ -70,6 +70,35 @@ The key results of the model, as visualized in the included plot, show the estim
 - **2026**: Approximately 50% risk after five infections.
 - **2032**: Approximately 78% risk after ten infections.
 
+## The Long COVID Risk
+
+The most severe potential outcome of Long COVID involves several interconnected risks that could create a downward spiral of health and economic consequences:
+Scale and Growth
+The global burden could exceed 400 million cases by late 2023, with numbers continuing to grow due to reinfections and new variants. This [estimate is likely conservative](https://www.nature.com/articles/s41591-024-03173-6) as it doesn't account for asymptomatic infections.
+Medical Challenges
+The condition remains poorly understood, with multiple proposed mechanisms including viral persistence, immune dysregulation, and mitochondrial dysfunction. Limited research funding and lack of standardized diagnostic tools hinder treatment development. Without clear understanding of its subtypes, developing targeted therapies remains difficult.
+Disability Impact
+Studies show concerning low recovery rates, with many cases potentially becoming chronic conditions. A significant portion of affected individuals experience reduced work capacity or complete disability, leading to long-term dependence on support systems.
+Economic Consequences
+The estimated annual global cost could reach $1 trillion through:
+
+Reduced workforce participation
+Increased healthcare costs
+Lost productivity
+Strain on public finances
+Potential labor shortages
+
+Social and Development Impact
+
+Marginalized communities face disproportionate effects and barriers to care
+Progress toward Sustainable Development Goals could be undermined
+Existing health inequalities may worsen
+Access to healthcare and poverty reduction efforts could be reversed
+
+Without effective prevention and treatment strategies, this scenario could result in a significant portion of the population facing chronic illness and disability. The cascading effects would impact all aspects of society, creating a future marked by widespread health challenges and economic hardship.
+
+
+
 ## Limitations
 
 This model is a simplified projection and is based on the following limitations:
