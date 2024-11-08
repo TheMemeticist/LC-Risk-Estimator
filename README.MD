@@ -11,31 +11,33 @@ The purpose of this project is to estimate the cumulative portion of the populat
 The data and assumptions in this project are drawn from the following sources:
 
 
-1. **Long COVID Risk per Infection**  
+- **Long COVID Risk per Infection**  
    - Risk estimates:
       - **13%** after the first infection
       - **23%** cumulative after a second infection
       - **37%** cumulative after a third infection  
    - **Source:** [Institut national de santé publique du Québec](https://www.inspq.qc.ca/publications/3510)
 
-2. **Increased Risk with Re-infections**  
+- **Increased Risk with Re-infections**  
    - Statistics Canada findings:
       - Canadians with **one infection**: 14.6% reported prolonged symptoms
       - Canadians with **two infections**: 25.4% (1.7 times higher risk than one infection)
       - Canadians with **three or more infections**: 37.9% (2.6 times higher risk than one infection)  
    - **Source:** [Statistics Canada](https://www150.statcan.gc.ca/n1/pub/75-006-x/2023001/article/00015-eng.htm)
 
+- China Survey Says Up to 30% of Adults Felt Long Covid Symptoms. **Source:**[The Lancet](https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(24)00212-8/fulltext)
 
-3. **Canadian COVID-19 Infection Statistics**  
+
+1. **Canadian COVID-19 Infection Statistics**  
    - Approximately **5%** of the Canadian population was infected by early 2022.  
    - **Source:** [COVID-19 Immunity Task Force](https://www.covid19immunitytaskforce.ca/seroprevalence-in-canada/)
 
-4. **Estimated U.S. Infections Post-2022**  
+2. **Estimated U.S. Infections Post-2022**  
    - Total U.S. infections to date: **1,300 million**.
    - **80%** of these infections (1,040 million) occurred after 2022.  
    - **Source:** [World Population Review](https://worldpopulationreview.com/countries/united-states)
 
-5. **Average Infections per Person per Year**  
+3. **Average Infections per Person per Year**  
    - Average rate assumed at **1 infection per person per year** from 2022 to 2032.
 
 ## Model Assumptions
